@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.1208fe68.js",
-    "static/js/488.a773b6c5.chunk.js": "/static/js/488.a773b6c5.chunk.js",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.1208fe68.js.map": "/static/js/main.1208fe68.js.map",
-    "488.a773b6c5.chunk.js.map": "/static/js/488.a773b6c5.chunk.js.map"
+    "main.css": "/react-test.com/static/css/main.f855e6bc.css",
+    "main.js": "/react-test.com/static/js/main.fc83d3c0.js",
+    "static/js/488.a773b6c5.chunk.js": "/react-test.com/static/js/488.a773b6c5.chunk.js",
+    "index.html": "/react-test.com/index.html",
+    "main.f855e6bc.css.map": "/react-test.com/static/css/main.f855e6bc.css.map",
+    "main.fc83d3c0.js.map": "/react-test.com/static/js/main.fc83d3c0.js.map",
+    "488.a773b6c5.chunk.js.map": "/react-test.com/static/js/488.a773b6c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.1208fe68.js"
+    "static/js/main.fc83d3c0.js"
   ]
 }
